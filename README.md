@@ -1,6 +1,7 @@
-npm init
-npm i sql nodemon express
-declare express mysql
+- npm init
+- npm i sql nodemon express
+# --
+- declare express mysql
 # ---
 create server: test server run or not
 # ---
